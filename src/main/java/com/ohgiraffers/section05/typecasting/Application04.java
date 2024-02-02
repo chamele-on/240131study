@@ -25,5 +25,6 @@ public class Application04 {
 
         System.out.println("height = " + height);
         System.out.println("floorHeight =" + floorHeight);
+
     }
 }
