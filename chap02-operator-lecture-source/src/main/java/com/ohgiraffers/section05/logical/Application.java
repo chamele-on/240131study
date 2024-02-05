@@ -33,6 +33,42 @@ public class Application {
         System.out.println("true 와 true의 논리 or 연산 : " + (false || true));
         System.out.println("true 와 true의 논리 or 연산 : " + (true || true));
 
+        System.out.println("안녕하세요");
+        System.out.println("바보입니다");
+        System.out.println("천재입니다");
+
+        System.out.print("안녕하세요");
+        System.out.print("녕하세요");
+        System.out.print("하세요");
+
+        System.out.println(123 / 10);
+        System.out.println(123/10);
+        System.out.println("hellowold" + 123);
+        System.out.println('a' + 'b');
+        System.out.println('b');
+        System.out.println('a');
+        System.out.println(true + "a");
+        System.out.println(true);
+        System.out.println(true);
+
+        System.out.println("기차" + "칙칙폭폭");
+        System.out.println("기차" + 123 + 45 + "출발");
+        System.out.println("기차" + 123 + 45 + "출발");
+        System.out.println(123 + 45 + "기차" + "출발");
+
+        System.out.println("a" + (2 +4));
+        System.out.println("안녕하세요 올해 " + (19 + 1) + " 살이 된 김 자바 입니다");
+
+
+                double pi = 3.141592653;
+                int radius = 10;
+                int height = 20;
+
+        System.out.println(2 * pi * radius);
+        System.out.println();
+
+
+
 
 
     }
