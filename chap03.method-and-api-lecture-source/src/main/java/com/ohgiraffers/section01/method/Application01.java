@@ -38,5 +38,7 @@ public class Application01 {
     }
 
     private void methodB() {
+
+
     }
 }

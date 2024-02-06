@@ -40,7 +40,22 @@ public class Application03 {
         
         /* 목차. 2-4. 연산 결과를 이용해서 값 전달을 할 수 있다. */
         app3.testmethod(age: age * 3);
-        
+
+        /**
+        * <pre>
+        * 매개변수로 전달 받은 두 수를 더하여 반환하는 기능 제공
+        *</pre>
+        * @param first1 더하기를 할 첫 번째 정수
+        * @param second1 더하기를 할 두 번째 정수
+        * @return 매개변수로 전달 받은 두 수를 더한 결과
+        *    */
+
+
+
+      public int plusTwoNumbers(int first1, int second1) {
+
+        return first1 + second1;
+
         
 
 
